@@ -42,3 +42,14 @@ https://staffeng.com/
 ## 1x Engineer (manifesto)
 
 https://1x.engineer/
+> You might have already heard of a 10x engineer. Probably too often, actually. If there's such a thing as a 10x engineer, surely there must be a 1x engineer, too?
+
+## Agile manifesto
+
+https://agilemanifesto.org/
+
+## Simplicity, please
+
+https://www.infoq.com/articles/simplicity-manifesto-development/
+
+https://medium.com/@ChrisDaviesCoach/simplicity-the-least-understood-agile-principle-ad1406a85248
